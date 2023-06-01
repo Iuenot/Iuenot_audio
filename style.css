@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+    background: linear-gradient(right-top rgb(237, 4, 237) rgb(175, 0, 206));
+    
+    
+}
+
+body{
+    background-color: rgb(33, 33, 33);
+
+}
+.img {
+    width: 200px;
+}
+.music {
+}
+.name {
+}
+.card_1{
+    background: linear-gradient( rgb(237, 4, 237),#000000);
+    width: 350px;
+    height: 500px;
+    padding-left: 30px;
+    margin: auto;
+    
+    
+}
+.card_2{
+    background: linear-gradient(rgb(163, 138, 9), #000000 );
+    width: 350px;
+    height: 500px;
+    border
+    
+}
+.header {
+    background-color: #000;
+}
+.header_body {
+    background-color: black;
+    width: 1200px;
+    margin: 0 auto;
+}
+.header_logo {
+    width: 100px;
+}
+.header_menu {
+    border: 1px solid #fa0000;
+    height: 30px;
+    margin: 0 auto;
+    size: 200px;
+}
+.header_button {
+    width: 40px;
+    height: 40px;
+
+
+}
+.header_text{
+    size: 300cm;
+}
+.video_button{
+padding: 20px 40px;
+transition: 0.5s;
+margin-top: 40px;
+background-color: #000000;
+color: aliceblue;
+border-radius: 10px;
+front-size: 20px;
+cursor: pointer;
+
+
+}
+.video_button:hover{
+    background-color: #fa0000;
+    color: #000000;
+    letter-spacing: -1px;
+    padding: 18px 40px;
+}
